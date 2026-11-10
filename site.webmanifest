@@ -1,0 +1,20 @@
+{
+  "name": "Dra. Ellen Fernandes",
+  "short_name": "Dra. Ellen",
+  "icons": [
+    {
+      "src": "/previa-dra-ellen/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/previa-dra-ellen/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#4A3A42",
+  "background_color": "#FAF7F8",
+  "display": "standalone",
+  "start_url": "/previa-dra-ellen/"
+}
